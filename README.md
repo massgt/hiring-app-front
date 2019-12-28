@@ -1,7 +1,7 @@
 
 ## Hiring App Channel
 
-In the project directory, you can run:
+In this application is used to recruit engineers by the company.
 
 
 ### Dependencies
